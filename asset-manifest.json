@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rpa-react-app/static/css/main.f976b9b0.css",
+    "main.js": "/rpa-react-app/static/js/main.e730b26d.js",
+    "static/js/787.ca7d866e.chunk.js": "/rpa-react-app/static/js/787.ca7d866e.chunk.js",
+    "index.html": "/rpa-react-app/index.html",
+    "main.f976b9b0.css.map": "/rpa-react-app/static/css/main.f976b9b0.css.map",
+    "main.e730b26d.js.map": "/rpa-react-app/static/js/main.e730b26d.js.map",
+    "787.ca7d866e.chunk.js.map": "/rpa-react-app/static/js/787.ca7d866e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f976b9b0.css",
+    "static/js/main.e730b26d.js"
+  ]
+}
